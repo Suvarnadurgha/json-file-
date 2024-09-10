@@ -1,0 +1,72 @@
+{
+    "name": "Jillian Schroeder",
+    "username": "Maurice_Sawayn",
+    "email": "Priscilla_Jones@hotmail.com",
+    "address": {
+        "streetA": "Baumbach Center",
+        "streetB": "441 Shanon Fords",
+        "streetC": "41296 Mckenna Cove Apt. 434",
+        "streetD": "Apt. 818",
+        "city": "Lake Aglaetown",
+        "state": "Indiana",
+        "country": "Tuvalu",
+        "zipcode": "06441",
+        "geo": {
+            "lat": "-34.7248",
+            "lng": "22.1263"
+        }
+    },
+    "phone": "1-928-355-8933",
+    "website": "faye.org",
+    "company": {
+        "name": "Zemlak - Hyatt",
+        "catchPhrase": "Adaptive 3rd generation strategy",
+        "bs": "scalable exploit partnerships"
+    },
+    "posts": [
+        {
+            "words": "et sed omnis",
+            "sentence": "Sed nobis odio.",
+            "sentences": "Sapiente delectus ipsa quasi optio fuga tempore. At ratione ab provident ut ut dolores vero corporis.",
+            "paragraph": "Voluptas pariatur sint dolor ut aliquid molestiae facilis architecto. Nemo ut consequuntur quidem cum omnis. Dolore quae corporis placeat beatae voluptate et in mollitia. Nobis veniam aliquam error. Molestiae eos sapiente."
+        },
+        {
+            "words": "repellendus molestias sed",
+            "sentence": "Accusantium accusantium exercitationem.",
+            "sentences": "Eius et voluptatem nisi voluptates in unde accusamus qui. Voluptatum voluptatibus ratione veritatis doloremque quo ut. Quia odit et ipsam corrupti ducimus qui eum maiores. Eveniet nesciunt molestiae et molestiae.",
+            "paragraph": "Sequi est consequatur est ad magnam quidem. Quisquam ut natus fugiat libero tempore magni quis quas quidem. Aspernatur eligendi et ratione repudiandae sit."
+        },
+        {
+            "words": "sed dolorem sint",
+            "sentence": "Sit consectetur magni natus doloribus.",
+            "sentences": "Optio debitis fugit facere iusto ex modi aliquam. Illum quod et maxime accusamus laborum natus veritatis.",
+            "paragraph": "Autem dolores dolor expedita sapiente ex cum eligendi iusto adipisci. Minus facilis delectus quo. In corporis mollitia molestiae. Vel voluptas optio."
+        }
+    ],
+    "accountHistory": [
+        {
+            "amount": "107.62",
+            "date": "2012-02-02T06:00:00.000Z",
+            "business": "Roob LLC",
+            "name": "Home Loan Account 6220",
+            "type": "payment",
+            "account": "03705510"
+        },
+        {
+            "amount": "650.88",
+            "date": "2012-02-02T06:00:00.000Z",
+            "business": "Kuphal, Lynch and Pouros",
+            "name": "Checking Account 9001",
+            "type": "payment",
+            "account": "85352791"
+        },
+        {
+            "amount": "878.63",
+            "date": "2012-02-02T06:00:00.000Z",
+            "business": "Reynolds Group",
+            "name": "Money Market Account 8743",
+            "type": "deposit",
+            "account": "53230334"
+        }
+    ]
+}
